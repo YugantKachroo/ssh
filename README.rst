@@ -34,4 +34,5 @@ Development Setup
   git clone https://github.com/GDGVIT/ssh.git
   cd ssh
   ./setup.sh
+  ghhshsnns
   source venv/bin/activate
